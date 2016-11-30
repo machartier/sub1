@@ -1,8 +1,14 @@
 {
-  "require": {
-      "php-amqplib/php-amqplib": "2.6.*"
-  },
-  "autoload": {
+    "name": "me/sub1",
+    "type": "library",
+    "description": "blaaa",
+    "license": "All rights reserved.",
+    "version": "0.0.1",
+    "keywords": ["a", "b", "c"],
+    "require": {
+        "php-amqplib/php-amqplib": "2.6.*"
+    },
+    "autoload": {
         "psr-4": {
             "Sub1\\": "src/"
         }
