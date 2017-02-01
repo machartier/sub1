@@ -13,5 +13,9 @@
  */
 class Subclass1 {
     public function newMethod(){}
-    public function addMethodAfterTag1(){}
+    public function addMethodAfterTag1(){
+        //fix v1=>0.1
+    }
+
+
 }

@@ -3,9 +3,11 @@
         "me/sub1": {
             "dev-master": {
                 "name": "smarty/smarty",
-                "version": "3.1.7",
+                "version": "v1",
                 "source": {
-                    "url": "."
+                    "url": "https://github.com/machartier/sub1.git",
+                    "type":"git",
+                    "reference":"v1.01"
                 }
             }
 
