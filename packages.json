@@ -3,7 +3,7 @@
         "me/sub1": {
             "dev-master": {
                 "name": "smarty/smarty",
-                "version": "v1",
+                "version": "1",
                 "source": {
                     "url": "https://github.com/machartier/sub1.git",
                     "type":"git",
