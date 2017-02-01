@@ -12,5 +12,6 @@
  * @author macha
  */
 class Subclass1 {
-    //put your code here
+    public function newMethod(){}
+    public function addMethodAfterTag1(){}
 }
