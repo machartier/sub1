@@ -2,7 +2,7 @@
     "packages": {
         "me/sub1": {
             "dev-master": {
-                "name": "smarty/smarty",
+                "name": "me/sub1",
                 "version": "1",
                 "source": {
                     "url": "https://github.com/machartier/sub1.git",
