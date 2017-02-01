@@ -7,15 +7,14 @@
  */
 
 /**
- * Description of Subclass1
+ * Description of Subclass2
  *
  * @author macha
  */
-class Subclass1 {
-    public function newMethod(){}
-    public function addMethodAfterTag1(){
-        //fix v1=>0.1
+class Subclass2 {
+    public function __construct()
+    {
+        
     }
-
 
 }
