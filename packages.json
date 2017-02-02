@@ -1,7 +1,7 @@
 {
     "packages": {
         "me/sub1": {
-            "master": {
+            "v2": {
                 "name": "me/sub1",
                 "version": "1.2",
                 "source": {
@@ -10,7 +10,7 @@
                     "reference":"v1.2"
                 }
             },
-            "dev-master": {
+            "v1": {
                 "name": "me/sub1",
                 "version": "1",
                 "source": {
