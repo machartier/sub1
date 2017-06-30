@@ -14,7 +14,7 @@
 class Subclass2 {
     public function __construct()
     {
-        ///zezegzege
+        echo "zezegzege";
     }
 
 }
